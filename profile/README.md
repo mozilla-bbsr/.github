@@ -1,4 +1,4 @@
-![Mozilla Club Bbsr](../assets/Mozilla_Banner_GIF.gif)
+![Mozilla Club Bbsr](./assets/Mozilla_Banner_GIF.gif)
 
 ---
 
