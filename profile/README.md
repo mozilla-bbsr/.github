@@ -1,4 +1,4 @@
-![Mozilla Club Bbsr](./../assets/Mozilla_Banner_GIF.gif)
+![Mozilla Club Bbsr](../assets/Mozilla_Banner_GIF.gif)
 
 ---
 
@@ -6,8 +6,8 @@
 </br>Est. 2017</p></strong>
 
 <p align="center">
-  <img width="200" height="120" src="./../assets/mozilla-club-bbsr.svg">  
-  <img width="200" height="120" src="./../assets/student-community.svg">
+  <img width="200" height="120" src="../assets/mozilla-club-bbsr.svg">  
+  <img width="200" height="120" src="../assets/student-community.svg">
 </p>
 </h3>
 
